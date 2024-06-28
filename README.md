@@ -4,7 +4,6 @@ While the repository is named for [https://grdn.site](https://grdn.site) it isnâ
 
 This is a public repository of a github experiment with a tool that syncs with iCloud. 
 
-The tool used here is called [Paper](https://papereditor.app), its a markdown editor written by 
+The tool used here is called [Paper](https://papereditor.app), itâ€™s a markdown editor written by an Indie Developer and pretty sweet to be fair. 
 
-
-# Development 
+The other part of the experiment uses a simple Deno script that runs inde
