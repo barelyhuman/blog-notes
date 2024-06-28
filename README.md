@@ -6,4 +6,4 @@ This is a public repository of a github experiment with a tool that syncs with i
 
 The tool used here is called [Paper](https://papereditor.app), it’s a markdown editor written by an Indie Developer and pretty sweet to be fair. 
 
-The other part of the experiment uses a simple Deno script that runs inde
+The other part of the experiment uses a simple Deno script that runs indefinitely on my terminal to monitor the iCloud folder for any changes
