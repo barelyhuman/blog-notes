@@ -4,7 +4,7 @@ While the repository is named for [https://grdn.site](https://grdn.site) it isnâ
 
 This is a public repository of a github experiment with a tool that syncs with iCloud. 
 
-the mentioned 
+The tool used here is called Paper, its a markdown editor written by 
 
 
 # Development 
