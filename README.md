@@ -4,7 +4,7 @@
 
 
 ## Listing
-- [TODO](./TODO.md)
+- [TODO](./TODO)
 
 
 While the repository is named for [https://grdn.site](https://grdn.site) it isn’t primarily written for it. 
