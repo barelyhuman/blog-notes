@@ -1,6 +1,6 @@
 # grdn 
 
-[/grdn](https://grdn.site/barelyhuman/grdn)
+[/grdn](https://grdn.site/barelyhuman/)
 
 
 While the repository is named for [https://grdn.site](https://grdn.site) it isn’t primarily written for it. 
