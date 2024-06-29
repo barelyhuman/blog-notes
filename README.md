@@ -5,7 +5,7 @@
 
 ## Navigation
 - [TODO](./TODO)
-- [FEED](./
+- [FEED](./FEED)
 
 ## About
 While the repository is named for [https://grdn.site](https://grdn.site) it isn’t primarily written for it. 
