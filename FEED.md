@@ -1,3 +1,7 @@
+## 07-07-2024
+
+Consistency requires a preferences and preferences require experience so unless you try a few things it’ll be hard to define what you prefer. 
+
 ## 05-07-2024
 
 And we have a new tiny bundling script 
